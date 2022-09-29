@@ -6,16 +6,16 @@ import moment from 'moment-timezone'
 
 /*Oᴡɴᴇʀ number*/
 global.owner = [
-  ['6285380166282', '️One', true],
-  ['6285380166282', '️Two', true],
-  ['6285380166282', '️Three', true],
-  ['6285380166282', '️Four', true],
-  ['6285380166282', '️Five', true],
-  ['6285380166282', '️Six', true],
-  ['6285380166282', '️Seven', true],
-  ['6285380166282', '️Eight', true],
-  ['6285380166282', '️Nine', true],
-  ['6285380166282', '️Teen', true]
+  ['6285807264974', '️One', true],
+  ['6285807264974', '️Two', true],
+  ['6285807264974', '️Three', true],
+  ['6285807264974', '️Four', true],
+  ['6285807264974', '️Five', true],
+  ['6285807264974', '️Six', true],
+  ['6285807264974', '️Seven', true],
+  ['6285807264974', '️Eight', true],
+  ['6285807264974', '️Nine', true],
+  ['6285807264974', '️Teen', true]
 ]
 global.mods = []
 global.prems = []
@@ -89,24 +89,24 @@ global.xckey = '7iyNa0qA'
 */
 
 /*Number*/
-global.nomorbot = '6285295374964'
-global.nomorown = '6285380166282'
-global.namebot = '𝙔𝙏 = 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯'
-global.nameown = '「 Oᴡɴᴇʀ 」'
+global.nomorbot = '6283150915460'
+global.nomorown = '6285807264974'
+global.namebot = '𝙕𝙚𝙣𝙯 𝘽𝙤𝙩𝙯'
+global.nameown = '「 𝙍𝙪𝙦𝙭𝙭 」'
 
 /*Watermark*/
-global.wm = '                「 𝙔𝙏 = 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯あ⁩ 」'
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ 𝙔𝙏 = 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯'
-global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
+global.wm = '                「 𝙕𝙚𝙣𝙯 𝘽𝙤𝙩𝙯あ⁩ 」'
+global.wm2 = '꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦꒦ ͝ ꒷ ͝ ꒦'
+global.wm3 = '⫹⫺ 𝙕𝙚𝙣𝙯 𝘽𝙤𝙩𝙯'
+global.botdate = `⫹⫺ Tanggal :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}`
-global.titlebot = `⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}\n⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
+global.titlebot = `⫹⫺ Waktu Server : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}\n⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 
 /*Thumbnail*/
-global.thumb = 'https://i.ibb.co/ccY2Q0k/20220429-191026.jpg'
-global.imagebot = 'https://telegra.ph/file/793b6accf3758f092742a.jpg'
+global.thumb = 'https://i.ibb.co/MsfHkxr/383c7a1cd5eb303fdb3b6017dca07644-2.jpg'
+global.imagebot = 'https://telegra.ph/file/a8a1faa2f6d2e3bb04c94.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
-global.thumbs = ['https://i.ibb.co/ccY2Q0k/20220429-191026.jpg','https://telegra.ph/file/f87047ec6e5f0d4a9ea91.jpg','https://telegra.ph/file/88edbb01051b397574def.jpg','https://telegra.ph/file/7957630a57078c5ec0400.jpg']
+global.thumbs = ['https://i.ibb.co/4R0FBG6/b9ef3e9f00969c2aac5f7fd58cb42690.jpg','https://i.ibb.co/nPdgQpJ/fcc0f32ef70b1427a0c813f13d623dd7-2.jpg','https://i.ibb.co/4R0FBG6/b9ef3e9f00969c2aac5f7fd58cb42690.jpg']
 global.fla='https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.flaaa = [
 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=',
